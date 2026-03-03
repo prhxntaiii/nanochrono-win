@@ -1,4 +1,4 @@
-# NanoChrono
+# NanoChronometer
 
 High-resolution nanosecond stopwatch for Windows. Uses the CPU's Time Stamp Counter (TSC) directly via hand-written x86-64 assembly — no CRT, no runtime dependencies.
 
